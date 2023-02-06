@@ -18,7 +18,9 @@ public class Ricardo {
 		System.out.println("Hola, me llamo " + nombre);
 	}
 	
+	
 	public static void escribirHobbies(String hobbie1, String hobbie2, String hobbie3) {
 		System.out.println("Mis hobbies son: " + hobbie1 + ", " + hobbie2 + " y " + hobbie3);
 	}
+	
 }
