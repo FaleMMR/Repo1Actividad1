@@ -2,6 +2,7 @@ package ricardo;
 
 public class Ricardo {
 
+
     public static void main(String[] args) {
 
         String nombre = "Ricardo";
@@ -33,3 +34,4 @@ public class Ricardo {
         System.out.println("Mis comidas favoritas son: " + comida1 + ", " + comida2 + " y " + comida3);
     }
 }
+
